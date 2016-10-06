@@ -67,4 +67,4 @@
 
 	![](http://a4.qpic.cn/psb?/V149UnPL1VXJy8/YYCTBnJu2NbAQgOaxOIj7voF3jZdxPRmetQlfeIZXPM!/c/dMcAAAAAAAAA&ek=1&kp=1&pt=0&bo=LAIvACwCLwADCC0!&sce=0-12-12&rf=0-18)
 3. 下载的两个文件尽量放在home文件夹中，如果放在home文件夹的子文件夹中容易使得最后一步runexample失败。
-4. make和ant的区别：make是基于C语言，而ant是基于Java语言。
+4. make和ant的区别：在linux编译c代码使用make工具。而在java中使用ant命令.
